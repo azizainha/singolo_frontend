@@ -243,6 +243,13 @@ main{
   border: 1px solid #c5c5c5;
 }
 
+.nav2 a:hover{
+	cursor: pointer;
+  text-decoration: none;
+  color: #dedede;
+  border: 1px solid #c5c5c5;
+}
+
 .images {
   display: grid;
   grid-template-columns: auto auto auto auto;
